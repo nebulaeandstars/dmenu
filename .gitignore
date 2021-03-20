@@ -1,6 +1,6 @@
-*.reg
-*.orig
-*.o
+*reg
+*orig
+*o
 *cache*
 config.h
 
