@@ -3,3 +3,6 @@
 *.o
 *cache*
 config.h
+
+dmenu
+stest
