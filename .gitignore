@@ -1,0 +1,5 @@
+*.reg
+*.orig
+*.o
+*cache*
+config.h
